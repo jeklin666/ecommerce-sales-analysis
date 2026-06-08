@@ -9,7 +9,7 @@ Proyek ini menyajikan analisis komprehensif terhadap performa penjualan e-commer
 * **Dashboard Visualisasi (Looker Studio)**:
 [https://datastudio.google.com/s/nx7JKkoIsYc](https://datastudio.google.com/s/nx7JKkoIsYc)
 * **Dokumentasi & Laporan Analisis (Notion)**:
-[[https://app.notion.com/p/ANALISIS-PENJUALAN-E-COMMERCE-3780d45be53980f9a7fdd9d8a8e51816?source=copy_link](https://www.google.com/search?q=https%3A%2F%2Fapp.notion.com%2Fp%2FANALISIS-PENJUALAN-E-COMMERCE-3780d45be53980f9a7fdd9d8a8e51816%3Fsource%3Dcopy_link)](https://app.notion.com/p/ANALISIS-PENJUALAN-E-COMMERCE-3780d45be53980f9a7fdd9d8a8e51816?source=copy_link)
+[(https://www.google.com/search?q=https%3A%2F%2Fapp.notion.com%2Fp%2FANALISIS-PENJUALAN-E-COMMERCE-3780d45be53980f9a7fdd9d8a8e51816%3Fsource%3Dcopy_link)](https://app.notion.com/p/ANALISIS-PENJUALAN-E-COMMERCE-3780d45be53980f9a7fdd9d8a8e51816?source=copy_link)
 
 ## Data Preparation & Cleansing
 
