@@ -1,8 +1,3 @@
-# ecommerce-sales-analysis
-Tentu, berikut adalah revisi draf README dengan gaya bahasa yang lebih teknis, profesional, dan menggunakan tautan mentah tanpa emoji.
-
----
-
 # E-Commerce Sales Analysis: End-to-End Data Pipeline & Visualization
 
 ## Deskripsi Proyek
